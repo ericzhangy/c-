@@ -17,6 +17,7 @@ namespace cSharpDemo1
             int num;
             num = 12;//this branch test
             ++num;
+            int a;
             num++;
             Console.WriteLine(num++);
 

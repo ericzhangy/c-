@@ -8,6 +8,7 @@ public class Class1
         //this ok!
 //哈哈哈，提取什么意思？
 		
+	// read?	
 		
 	}
     

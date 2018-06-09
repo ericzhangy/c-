@@ -10,10 +10,13 @@ namespace cSharpDemo1
     {
         static void Main(string[] args)
         {
+            int i = 0;
+            if(i == 0){
+
+            }
             int num;
             num = 12;//this branch test
             ++num;
-            int a;//
             num++;
             Console.WriteLine(num++);
 

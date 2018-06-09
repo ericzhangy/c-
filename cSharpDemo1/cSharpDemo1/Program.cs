@@ -10,6 +10,10 @@ namespace cSharpDemo1
     {
         static void Main(string[] args)
         {
+            int num;
+            num = 10;
+            Console.WriteLine(num++);
+
             Console.WriteLine("-----");
             Console.ReadLine();
         }

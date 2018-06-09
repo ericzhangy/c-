@@ -9,7 +9,7 @@ public class Class1
 //哈哈哈，提取什么意思？
 		
 	// read?	
-		??
+		??123
 	}
     
 }

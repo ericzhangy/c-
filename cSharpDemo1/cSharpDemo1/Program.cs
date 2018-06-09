@@ -11,7 +11,7 @@ namespace cSharpDemo1
         static void Main(string[] args)
         {
             int num;
-            num = 11;
+            num = 12;
             ++num;
             Console.WriteLine(num++);
 
